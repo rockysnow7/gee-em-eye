@@ -1,6 +1,6 @@
 //! # Gee Em Eye
 //!
-//! A library for parsing gemtext documents.
+//! A crate for parsing Gemtext documents.
 
 #![warn(missing_docs)]
 #![warn(unused_imports)]
