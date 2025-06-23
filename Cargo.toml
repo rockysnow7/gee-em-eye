@@ -1,0 +1,11 @@
+[package]
+name = "gee-em-eye"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+name = "gee_em_eye"
+path = "src/lib.rs"
+
+[dependencies]
+nom = "8.0.0"
